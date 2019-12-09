@@ -23,6 +23,14 @@ apt-get install libsdl2-ttf-dev
 
 Further documentation on SDL libraries can be found at libsdl.org
 
+If you are running on a Mac you can use homebrew to install the necessary libraries:
+
+brew install SDL2
+
+brew install SDL2_image
+
+brew install SDL2_ttf
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 BUILDING THE PROGRAM
