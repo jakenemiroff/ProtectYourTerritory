@@ -37,7 +37,3 @@ BUILDING THE PROGRAM
 
 The makefile included with the program files compiles the game on the command "make" and the game can be started with a call to "./game". 
 To exit the game, click the x button on the game window that pops up. 
-
-![Screen Shot 2020-04-17 at 6 48 34 PM](https://user-images.githubusercontent.com/38958685/79619872-20d1c400-80dc-11ea-9a80-d686a00ac281.png)
-
-![Screen Shot 2020-04-17 at 6 48 53 PM](https://user-images.githubusercontent.com/38958685/79619876-25967800-80dc-11ea-908a-fd36e93345ca.png)
