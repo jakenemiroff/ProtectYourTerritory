@@ -1,4 +1,4 @@
-Protect Your Territory (11/28/2019)
+# Protect Your Territory (11/28/2019)
 
 Carolyn Owen
 Abdallah Alasmar
@@ -37,3 +37,5 @@ BUILDING THE PROGRAM
 
 The makefile included with the program files compiles the game on the command "make" and the game can be started with a call to "./game". 
 To exit the game, click the x button on the game window that pops up. 
+
+![game play](https://github.com/jakenemiroff/Protect_Your_Territory/blob/master/game_play.png)
